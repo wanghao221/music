@@ -1,7 +1,7 @@
 # ❤️使用 HTML、CSS 和 JS 创建在线音乐播放器❤️
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/f56835370056479e8cd80298ff892904.png#pic_center)
-<a href="#jump99"><font size="5" color="#03a9f4"><b><u>直接跳到末尾</u></b></font></a>  **获取完整源码**
+<a href="https://github.com/wanghao221/music/blob/main/README.md#-%E5%AE%8C%E6%95%B4%E6%BA%90%E7%A0%81%E4%B8%8B%E8%BD%BD"><font size="5" color="#03a9f4"><b><u>直接跳到末尾</u></b></font></a>  **获取完整源码**
 
 > <font color="#B8860B">**今天我将带着大家使用 HTML、CSS 和 JS创建 [音乐播放器](http://haiyong.site/yinyue)，没有使用任何其他库。我们的音乐播放器具有三个部分。主屏幕、播放器部分和播放列表部分。我们的主页部分有一个平滑的工作滑块，也有水平滚动。这个音乐播放器最好的部分是它最小化了音乐播放器。是的，您可以最小化和最大化播放器本身。使这个项目成为一个很棒的音乐播放器。**</font>
 
